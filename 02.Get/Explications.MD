@@ -1,4 +1,4 @@
-ans le contexte de JSON Server, une application backend simulée qui fournit un faux serveur RESTful en utilisant un fichier JSON comme source de données, la méthode GET est l'une des principales méthodes HTTP utilisées pour récupérer des données à partir du serveur.
+la méthode GET est l'une des principales méthodes HTTP utilisées pour récupérer des données à partir du serveur.
 
 Lorsque vous effectuez une requête GET à un endpoint spécifique sur JSON Server, cela signifie que vous demandez au serveur de vous renvoyer les données correspondant à cet endpoint. Par exemple, avec notre data fichier JSON si vous exécutez une requête GET à l'endpoint /data, le serveur répondra avec une liste de tous des langages disponibles dans le fichier JSON
 

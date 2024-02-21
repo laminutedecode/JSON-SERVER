@@ -22,9 +22,6 @@ Different de 4
 http://localhost:3000/data?id_ne=4
 
 
-<!-- _like : Permet d'effectuer une recherche approximative sur une chaîne de caractères en utilisant une expression régulière. Par exemple, pour récupérer les langages de programmation contenant "Java" dans leur nom : -->
-http://localhost:3000/data?langage_like=Java
-
 
 
 <!-- Ces opérateurs logiques offrent une flexibilité supplémentaire lors de la manipulation des données avec JSON Server, vous permettant ainsi de créer des requêtes plus spécifiques pour répondre à vos besoins de filtrage de données. -->

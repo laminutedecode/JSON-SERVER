@@ -1,4 +1,4 @@
-Pour filtrer les données dans JSON Server, vous pouvez utiliser les paramètres de requête pour spécifier les critères de filtrage. Dans votre exemple avec le fichier data.json, supposons que vous utilisez JSON Server pour simuler un serveur RESTful pour ces données.
+Pour filtrer les données dans JSON Server, vous pouvez utiliser les paramètres de requête pour spécifier les critères de filtrage. 
 
 Voici comment vous pouvez filtrer les données dans différents scénarios :
 

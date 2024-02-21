@@ -1,0 +1,32 @@
+{
+  "courses": [
+    { "id": "1", "name": "HTML", "category": "frontend" },
+    { "id": "2", "name": "CSS", "category": "frontend" },
+    { "id": "3", "name": "JavaScript", "category": "frontend" },
+    { "id": "4", "name": "Python", "category": "backend" },
+    { "id": "5", "name": "Ruby", "category": "backend" },
+    { "id": "6", "name": "Java", "category": "backend" },
+    { "id": "7", "name": "PHP", "category": "backend" },
+    { "id": "8", "name": "SQL", "category": "backend" },
+    { "id": "9", "name": "C#", "category": "backend" },
+    { "id": "10", "name": "TypeScript", "category": "frontend" }
+  ],
+  "users": [
+    { "id": "1", "name": "Alice", "age": 25 },
+    { "id": "2", "name": "Bob", "age": 30 }
+  ],
+  "comments": [
+    { "id": "1", "text": "Great course!", "courseId": "1" },
+    { "id": "2", "text": "Helpful content.", "courseId": "1" },
+    { "id": "3", "text": "I enjoyed learning this language.", "courseId": "3" },
+    { "id": "4", "text": "Nice explanation.", "courseId": "3" },
+    { "id": "5", "text": "Python is my favorite language.", "courseId": "4" },
+    { "id": "6", "text": "Ruby on Rails is awesome.", "courseId": "5" }
+  ],
+  "profile": {
+    "name": "John Doe",
+    "email": "john.doe@example.com",
+    "age": 35
+  }
+}
+
